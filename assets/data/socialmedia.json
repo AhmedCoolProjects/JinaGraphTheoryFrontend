@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "5af122ce-12b6-11ec-9932-f43909c6ddf2",
+    "title": "LinkedIn",
+    "link": "https://www.linkedin.com/in/ahmed-bargady/",
+    "image": "https://ahmedcoolprojects.github.io/portfolio/projects/logos/linkedin.svg"
+  },
+  {
+    "_id": "5af45c78-12b6-11ec-904c-f43909c6ddf2",
+    "title": "Github",
+    "link": "https://github.com/AhmedCoolProjects",
+    "image": "https://ahmedcoolprojects.github.io/portfolio/projects/logos/github.svg"
+  },
+  {
+    "_id": "5af45c79-12b6-11ec-8504-f43909c6ddf2",
+    "title": "Twitter",
+    "link": "https://twitter.com/AhmedBargady",
+    "image": "https://ahmedcoolprojects.github.io/portfolio/projects/logos/twitter.svg"
+  },
+  {
+    "_id": "5af45c7a-12b6-11ec-9aaa-f43909c6ddf2",
+    "title": "Email",
+    "link": "mailto:bargadyahmed2000@gmail.com",
+    "image": "https://ahmedcoolprojects.github.io/portfolio/projects/logos/gmail.svg"
+  }
+]

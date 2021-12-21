@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Bellman",
+    "description": "Bellman Graph is an algorithm that computes shortest paths from a single source vertex to all of the other vertices in a weighted digraph",
+    "image": "bellman",
+    "link": "/bellman"
+  },
+  {
+    "title": "Dijkstra",
+    "description": "Dijkstra is used for finding the shortest distance, or path, from starting node to target node in a weighted graph.",
+    "image": "dijkstra",
+    "link": "/dijkstra"
+  },
+  {
+    "title": "Graph Coloring",
+    "description": "Graph Coloring is a problem of assigning colors to vertices of a graph so that no two adjacent vertices have the same color. The problem is NP-complete and can be solved using greedy algorithms.",
+    "image": "coloring",
+    "link": "/coloring"
+  },
+  {
+    "title": "Kruskal",
+    "description": "Kruskal is an algorithm for finding the minimum spanning tree of a weighted, connected and undirected graph.",
+    "image": "kruskal",
+    "link": "/kruskal"
+  }
+]
