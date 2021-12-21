@@ -10,19 +10,15 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <meta
           name="description"
-          content="Jina Food, Your perfect restaurant for your next meal"
+          content="Jina Graph Theory, a platform to resolve probems using popular GT algorithms"
         />
         <meta
           name="keywords"
-          content="Jina Food, Your perfect restaurant for your next meal"
-        />
-        <meta
-          name="og:title"
-          content="Jina Food: Your perfect restaurant for your next meal"
+          content="Jina, Graph Theory, Algorithms, Problems, GT, GT Algorithms, GT Problems"
         />
         <meta
           name="og:description"
-          content="Jina Food, Your perfect restaurant for your next meal"
+          content="Jina Graph Theory, a platform to resolve probems using popular GT algorithms"
         />
         <meta
           name="viewport"
