@@ -24,6 +24,10 @@ function MyApp({ Component, pageProps }) {
           name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
         />
+        {/* favicon.ico */}
+        <link rel="icon" href="/favicon.ico" />
+        {/* apple-touch-icon.png */}
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico" />
       </Head>
       <AppProvider>
         <Layout>
